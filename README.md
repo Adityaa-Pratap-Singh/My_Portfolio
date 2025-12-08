@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio — Aditya Pratap
+# 🌐 Personal Portfolio — Aditya Pratap Singh
 
 Welcome to my personal portfolio website!  
 This portfolio showcases my skills, projects, achievements, and creative work.  
