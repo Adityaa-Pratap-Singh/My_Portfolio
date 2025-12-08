@@ -34,7 +34,7 @@ Feel free to reach out!
 
 - **Email:** *adityasingh000029@gmail.com*  
 - **GitHub:** https://github.com/Adityaa-Pratap-Singh 
-- **LinkedIn:** *(your LinkedIn profile link)*  
+- **LinkedIn:** *https://www.linkedin.com/in/aditya-pratap-singh-411478289/*  
 
 ---
 
