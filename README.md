@@ -15,7 +15,7 @@ It is designed with a modern, sleek, and visually appealing UI that reflects my 
 - 🎨 Modern UI/UX with smooth, clean design  
 - 🧑‍💻 About Me section  
 - 🛠️ Projects with detailed descriptions  
-- 🏆 Achievements and Certifications (17+ certificates, competition awards, arts medal, ABC Award, etc.)  
+- 🏆 Achievements and Certifications (17+ certificates, competition awards, arts medal, ABC Award, etc.) 
 - 🎭 Creativity section for sketches & reels  
 - 📬 Contact form for quick communication  
 - 📱 Fully responsive design  
